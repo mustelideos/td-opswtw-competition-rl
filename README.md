@@ -1,5 +1,5 @@
 # td-opswtw-competition-rl
-2nd place solution to the TD-OPSWTW for the competition [AI for TSP](https://www.tspcompetition.com) ([github](https://github.com/paulorocosta/ai-for-tsp-competition))
+2nd place solution to the [AI for TSP](https://www.tspcompetition.com) ([github](https://github.com/paulorocosta/ai-for-tsp-competition)) competition.
 
 This solution is an adaptation of Pointer Network model in:
 
